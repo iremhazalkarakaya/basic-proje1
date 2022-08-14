@@ -1,0 +1,2 @@
+# basic proje1
+ 
